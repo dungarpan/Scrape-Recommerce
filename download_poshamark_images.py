@@ -8,6 +8,7 @@ file_name = 'Clothing_Data.csv'
 img_url_index = 3 
 product_id_index = 0
 
+print("Poshmark image download file")
 # Create a directory to save images
 os.makedirs('downloaded_images', exist_ok=True)
 
